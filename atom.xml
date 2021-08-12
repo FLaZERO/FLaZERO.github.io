@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-12T12:12:52.492Z</updated>
+  <updated>2021-08-12T23:26:16.943Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一个个人站点应当是如何的之综述篇</title>
+    <link href="http://example.com/2021/08/13/BlogProject01/"/>
+    <id>http://example.com/2021/08/13/BlogProject01/</id>
+    <published>2021-08-12T23:01:25.000Z</published>
+    <updated>2021-08-12T23:26:16.943Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>一些我认为个人站点所需要的因素，所达成的效果，当下主要是用于个人博客。而一些博客的主题可以说是简约，但我更想说是简陋，缺乏美感</p></blockquote><h1 id="简洁？"><a href="#简洁？" class="headerlink" title="简洁？"></a>简洁？</h1><p>​        就目前所见的一些博客主题，大多介绍自己简约的主题，均只是将文字简单排列，花纹没有，背景没有，甚至连颜色都没有，我认为这并不能说是简约，一个站点要有对美的起码追求。而简洁，应当体现在一个页面之内的元素多寡，要控制一个页面的元素不能过多，否则就会杂乱。</p><h1 id="博客应当如何简洁"><a href="#博客应当如何简洁" class="headerlink" title="博客应当如何简洁"></a>博客应当如何简洁</h1><p>以个人博客为例，首页的内容应当只有站点头像，导航和最近文章等内容，视觉元素有背景、导航背景等，不应有更多东西。</p><h1 id="引出的问题"><a href="#引出的问题" class="headerlink" title="引出的问题"></a>引出的问题</h1><ol><li>什么作为首页展示的内容，近期更新？某个分类？</li><li>各个内容板块的范围应是如何？</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一些我认为个人站点所需要的因素，所达成的效果，当下主要是用于个人博客。而一些博客的主题可以说是简约，但我更想说是简陋，缺乏美感&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;简洁？&quot;&gt;&lt;a href=&quot;#简洁？&quot; class=&quot;headerl</summary>
+      
+    
+    
+    
+    
+    <category term="Blog" scheme="http://example.com/tags/Blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>BlogPlan.md</title>
     <link href="http://example.com/2021/08/11/BlogPlan/"/>
     <id>http://example.com/2021/08/11/BlogPlan/</id>
     <published>2021-08-11T12:39:36.000Z</published>
-    <updated>2021-08-12T12:12:52.492Z</updated>
+    <updated>2021-08-12T14:23:04.271Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博客的计划"><a href="#博客的计划" class="headerlink" title="博客的计划"></a>博客的计划</h1><ol><li>先行使用他人的模板，在他人的模板上不断修改，逐渐了解hexo</li><li>自行创建hexo模板</li><li>转入hugo</li></ol><h2 id="周计划"><a href="#周计划" class="headerlink" title="周计划"></a>周计划</h2><h3 id="第一周（2021-8-12-8-15）"><a href="#第一周（2021-8-12-8-15）" class="headerlink" title="第一周（2021.8.12~8.15）"></a>第一周（2021.8.12~8.15）</h3><ul><li><input disabled="" type="checkbox"> 完成博客的部署，更换域名</li><li><input disabled="" type="checkbox"> </li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="博客的计划"><a href="#博客的计划" class="headerlink" title="博客的计划"></a>博客的计划</h1><ol><li>先行使用他人的模板，在他人的模板上不断修改，逐渐了解hexo</li><li>自行创建hexo模板</li><li>转入hugo</li></ol><h2 id="周计划"><a href="#周计划" class="headerlink" title="周计划"></a>周计划</h2><h3 id="第一周（2021-8-12-8-15）"><a href="#第一周（2021-8-12-8-15）" class="headerlink" title="第一周（2021.8.12~8.15）"></a>第一周（2021.8.12~8.15）</h3><ul><li><input disabled="" type="checkbox"> 完成博客的部署，更换域名</li><li><input disabled="" type="checkbox"> 增强稳定性和上传可靠性</li></ul>]]></content>
     
     
       
