@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>BlogPlan.md</title>
+    <url>/2021/08/11/BlogPlan/</url>
+    <content><![CDATA[<h1 id="博客的计划"><a href="#博客的计划" class="headerlink" title="博客的计划"></a>博客的计划</h1><ol>
+<li>先行使用他人的模板，在他人的模板上不断修改，逐渐了解hexo</li>
+<li>自行创建hexo模板</li>
+<li>转入hugo</li>
+</ol>
+<h2 id="周计划"><a href="#周计划" class="headerlink" title="周计划"></a>周计划</h2><h3 id="第一周（2021-8-12-8-15）"><a href="#第一周（2021-8-12-8-15）" class="headerlink" title="第一周（2021.8.12~8.15）"></a>第一周（2021.8.12~8.15）</h3><ul>
+<li><input disabled="" type="checkbox"> 完成博客的部署，更换域名</li>
+<li><input disabled="" type="checkbox"> </li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/08/10/hello-world/</url>
+    <content><![CDATA[<h1 id="对世界说一声-你好"><a href="#对世界说一声-你好" class="headerlink" title="对世界说一声 你好"></a>对世界说一声 你好</h1>]]></content>
+  </entry>
+</search>
